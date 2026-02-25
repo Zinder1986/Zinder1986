@@ -17,5 +17,5 @@
 [<img align="left" alt="Quentin | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/
-[instagram]: https://www.instagram.com/quentin_c_washington
+[instagram]: https://www.instagram.com/quentin_c_washington/
 [linkedin]: https://linkedin.com/in/quentin-washington-01307443
