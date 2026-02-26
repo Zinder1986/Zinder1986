@@ -6,7 +6,7 @@
 
   - [osTicket: Ticket Lifecycle Laptop Troubleshoot Example](https://github.com/Zinder1986/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Configuring Active Directory Domain within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
   
 
 <h2>🤳Connect with me:</h2>
