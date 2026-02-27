@@ -4,7 +4,7 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
 
-  - [osTicket: Ticket Lifecycle Intake Through Resolution](https://github.com/Zinder1986/ticket-lifecycle)
+  - [osTicket: Ticket Lifecycle Intake Through Resolution of Dell Laptop repair](https://github.com/Zinder1986/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory Domain within Azure VMs](https://github.com/Zinder1986/configure-ad)
   
