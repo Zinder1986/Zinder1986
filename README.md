@@ -5,8 +5,8 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
 
   - [osTicket: Ticket Lifecycle Intake Through Resolution of Dell Laptop repair](https://github.com/Zinder1986/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Configuring Active Directory Domain within Azure VMs](https://github.com/Zinder1986/configure-ad)
+- <b>Microsoft Azure and Active Directory</b>
+  - [Resolving User Account Locked Out Using Active Directory within Azure VMs](https://github.com/Zinder1986/configure-ad)
   
 
 <h2>🤳Connect with me:</h2>
